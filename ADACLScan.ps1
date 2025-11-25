@@ -9,7 +9,7 @@
     FITNESS FOR A PARTICULAR PURPOSE.
 
 .DESCRIPTION
-    A tool with GUI or command linte used to create reports of access control lists (DACLs) and system access control lists (SACLs) in Active Directory.
+    A tool with GUI or command line used to create reports of access control lists (DACLs) and system access control lists (SACLs) in Active Directory.
     See https://github.com/canix1/ADACLScanner
 
 .EXAMPLE
